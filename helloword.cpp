@@ -15,6 +15,6 @@ int main(){
 	cout<<"word"<<endl;
 	cout<<":) hehe"<<endl;
 
-	//karena menggu	
+	//karena menggunakan fungsi main()
 	return 0;
 }
